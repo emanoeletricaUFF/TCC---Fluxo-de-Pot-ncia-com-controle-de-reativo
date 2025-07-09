@@ -6,12 +6,12 @@ Este projeto foi documentado e descrito no Trabalho de Conclusão de Curso "Gera
 
 ## 🔧 Requisitos
 
-Antes de executar os scripts `.py` ou o executável `.exe`, certifique-se de que as seguintes bibliotecas estejam instaladas (em caso de uso via Python):
+Antes de executar os scripts `.py` ou o executável `.exe`, certifique-se de que as seguintes bibliotecas estejam instaladas:
 
 ```bash
 pip install numpy scipy matplotlib pandas
 ```
-## 📂 Estrutura dos Executáveis
+## 📂 Estrutura dos Códigos
 Usando o executável .exe: Execute diretamente os arquivos.
 ```bash
 GoSimul.exe (Tela 1 – Simulador com visualização de fluxo)
@@ -19,6 +19,8 @@ GoCases.exe (Tela 2 – Geração de casos com limites)
 GoCurvs.exe (Tela 3 – Geração de curvas PV com controle reativo)
 Os arquivos .exe já estão prontos para uso, sem necessidade de instalação de bibliotecas.
 ```
+Usando os códigos fontes .py: Execute o arquivo com o nome TELA.
+
 
 ## 📂 Estrutura dos Gráficos e Arquivos Salvos
 ```bash
